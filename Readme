@@ -1,0 +1,20 @@
+# Humble Morde✈️
+
+76-Command WhatsApp Bot with 8-digit pairing site. Deploy to Heroku/Render/Railway.
+
+**Owner**: [slomo254](https://facebook.com/slomo254)
+
+## Deploy 1-Click
+
+| Heroku | Render | Railway |
+| --- | --- | --- |
+| [[Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) | [[Deploy](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy) | [[Deploy](https://railway.app/button.svg)](https://railway.app/new) |
+
+## Pair WhatsApp
+Visit `https://your-app.onrender.com` > Enter number > Get 8-digit code > Link in WhatsApp
+
+## Commands: 76 Total
+Use `.menu` to see all. Categories: General, Group, Owner, Downloader, Fun, AI, Tools
+
+## Warning
+Bots violate WhatsApp ToS. Use throwaway numbers. For education only.
