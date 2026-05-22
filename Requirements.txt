@@ -1,0 +1,5 @@
+flask
+pybaileys==0.1.9
+qrcode[pil]
+psutil
+requests
